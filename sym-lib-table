@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "DPS310")(type "KiCad")(uri "${KIPRJMOD}/DPS310/DPS310.kicad_sym")(options "")(descr ""))
+  (lib (name "ATP3012")(type "KiCad")(uri "${KIPRJMOD}/ATP3012/ATP3012.kicad_sym")(options "")(descr ""))
+  (lib (name "AE-BNO055")(type "KiCad")(uri "${KIPRJMOD}/AE-BNO055/AE-BNO055.kicad_sym")(options "")(descr ""))
+  (lib (name "ICS")(type "KiCad")(uri "${KIPRJMOD}/ICS/ICS.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name "Arduino_MountingHole")(type "KiCad")(uri "${KICAD6_TEMPLATE_DIR}/Arduino_Mega/Arduino_MountingHole.pretty")(options "")(descr ""))
+  (lib (name "DPS310")(type "KiCad")(uri "${KIPRJMOD}/DPS310")(options "")(descr ""))
+  (lib (name "microSD")(type "KiCad")(uri "${KIPRJMOD}/microSD")(options "")(descr ""))
+  (lib (name "AE-BNO055")(type "KiCad")(uri "${KIPRJMOD}/AE-BNO055/AE-BNO055.pretty")(options "")(descr ""))
+  (lib (name "ICS")(type "KiCad")(uri "${KIPRJMOD}/ICS/ICS.pretty")(options "")(descr ""))
+  (lib (name "LOGO")(type "KiCad")(uri "${KIPRJMOD}/LOGO")(options "")(descr ""))
+)
